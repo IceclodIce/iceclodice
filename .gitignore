@@ -1,0 +1,11 @@
+<form action="https://money.yandex.ru/eshop.xml" method="post">
+    <input name="shopId" value="1234" type="hidden"/>
+    <input name="scid" value="4321" type="hidden"/>
+    <input name="sum" value="100.50" type="hidden">
+    <input name="customerNumber" value="abc000" type="hidden"/>
+    <input name="paymentType" value="AC" type="hidden"/>
+    <input name="orderNumber" value="abc1111111" type="hidden"/>
+    <input name="cps_phone" value="79110000000" type="hidden"/>
+    <input name="cps_email" value="user@domain.com" type="hidden"/>
+  <input type="submit" value="Заплатить"/>
+</form>
